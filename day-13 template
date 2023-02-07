@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <title>Templatee</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    
+  </head>
+  <body class="p-3 m-0 border-0 bd-example">
+
+<div class="container">
+    <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Logis</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class=" nav navbar-nav navbar-right" style="padding-left: 700px;">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                More
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    </header>
+    <div class="row">
+        <div class="col-sm-6" style="background-color: violet; height: 300px;">
+            <h1> Your Lighting Fast <br> Delivery Partner</h1>
+            <p style="padding-bottom: 15px;"> 
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, accusamus eligendi. Corrupti minus, harum accusamus autem debitis id provident labore quas numquam ipsa repellendus delectus voluptate fugiat velit dolorem? Doloribus deleniti repellat ducimus autem libero consequuntur!
+            </p>
+            <nav class="navbar bg-body-tertiary">
+                <div class="container-fluid">
+                  <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                  </form>
+                </div>
+              </nav>
+        </div>
+        <div class="col-sm-6" style="background-color: violet; height: 300px;">
+        <img src="1675741236020.png" alt="" style="padding: 50px; padding-left: 140px;"></div>
+        <div class="row">
+            <div class="col-md-1">
+                <h2>232</h2>
+                <hr style="color: blue;">
+                <p>client</p>
+            </div>
+            <div class="col-md-1">
+                <h2>521</h2>
+                <hr style="color: blue;">
+                <p>projects</p>
+            </div>
+            <div class="col-md-1">
+                <h2>1453</h2>
+                <hr style="color: blue;">
+                <p>support</p>
+            </div>
+            <div class="col-md-1">
+                <h2>32</h2>
+                <hr style="color: blue;">
+                <p>workers</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+    <div class="row" style="background-color: white;">
+        <div class="col-sm-4">
+            <h5>Lorem ipsum</h5>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum sint eaque explicabo dolores magni.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="col-sm-4">
+            <h5>Dolor Sltema</h5>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum sint eaque explicabo dolores magni.</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="col-sm-4">
+            <h5>sed ut perspiciatis</h5>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum sint eaque explicabo dolores magni.</p>
+            <a href="#">Learn More</a>
+        </div>
+    </div>
+    </footer>
+</div>
+  </body>
+</html>
